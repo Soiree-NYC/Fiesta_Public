@@ -1,19 +1,19 @@
 # Fiesta
 ![Logo](https://img-jonnicwolf.s3.us-east-2.amazonaws.com/Fiesta_Logo.png)
 
-Soiree is a sophisticated event management platform designed to streamline venue bookings, dynamic pricing, and guest experiences. It offers tiered service packages, customizable meal options, and a seamless multi-step booking process tailored to client needs. Built with scalability and user experience in mind, Soiree simplifies planning for both event organizers and attendees.
+Fiesta is a sophisticated event management platform designed to streamline venue bookings, dynamic pricing, and guest experiences. It offers tiered service packages, customizable meal options, and a seamless multi-step booking process tailored to client needs. Built with scalability and user experience in mind, Fiesta simplifies planning for both event organizers and attendees.
 
 
 ## Documentation
 
-This README serves as a public-facing document for Soiree, a private project. The source code and implementation details are not publicly available to protect intellectual property and sensitive data.
+This README serves as a public-facing document for Fiesta, a private project. The source code and implementation details are not publicly available to protect intellectual property and sensitive data.
 
 For more information about the project, feel free to reach out via [J F Narine](https://github.com/jonnicwolf).
 
 
 ## Acknowledgements
 
-I would like to express my gratitude to everyone who contributed to the success of Soiree:
+I would like to express my gratitude to everyone who contributed to the success of Fiesta:
 
 Collaborators and Mentors: 
 
@@ -21,7 +21,7 @@ Brinton Valis, and Fezz Narine
 - For their invaluable guidance, feedback, and support during the development process.
 
 Open-Source Contributors: 
-- To the developers of tools, libraries, and frameworks that powered Soiree, including React, Sequelize, and others.
+- To the developers of tools, libraries, and frameworks that powered Fiesta, including React, Sequelize, and others.
 
 Testers and Early Users: 
 
@@ -30,7 +30,7 @@ Judy Z's, The Spaniard, The Folly, Blue Haven and many more.
 
 Inspiration and Support: 
 
-To friends and colleagues who motivated and inspired the vision behind Soiree.
+To friends and colleagues who motivated and inspired the vision behind Fiesta.
 Thank you for being part of this journey!
 
 ## Authors
@@ -40,7 +40,7 @@ Thank you for being part of this journey!
 
 ## Demo
 
-Short video demo [here](https://img-jonnicwolf.s3.us-east-2.amazonaws.com/soiree.mp4)
+Short video demo [here](https://img-jonnicwolf.s3.us-east-2.amazonaws.com/Fiesta.mp4)
 
 ## Tech Stack
 
