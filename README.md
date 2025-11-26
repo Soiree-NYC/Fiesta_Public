@@ -1,5 +1,5 @@
 # Fiesta
-![Logo](https://res.cloudinary.com/dl7ortwgk/image/upload/v1733318854/Screenshot_2024-12-04_at_8.25.45_AM_k3znts.png)
+![Logo](https://img-jonnicwolf.s3.us-east-2.amazonaws.com/Fiesta_Logo.png)
 
 Soiree is a sophisticated event management platform designed to streamline venue bookings, dynamic pricing, and guest experiences. It offers tiered service packages, customizable meal options, and a seamless multi-step booking process tailored to client needs. Built with scalability and user experience in mind, Soiree simplifies planning for both event organizers and attendees.
 
@@ -44,7 +44,7 @@ Short video demo [here](https://img-jonnicwolf.s3.us-east-2.amazonaws.com/soiree
 
 ## Tech Stack
 
-**Client:** TypeScript, React, Axios, TailwindCSS, React-Calendar, Vite, Vercel
+**Client:** TypeScript, React, Axios, TailwindCSS, React-Calendar, Stripe.js
 
 **Server:** Node, Express, Sequelize, PostgreSQL, AWS ECR, AWS RDS, AWS EC2, AWS ECS
 
